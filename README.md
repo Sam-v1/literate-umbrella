@@ -1,1 +1,1 @@
-Tessting and Learning about githun and analyzing how repository work.
+Testing and Learning about github and analyzing how repository work.
