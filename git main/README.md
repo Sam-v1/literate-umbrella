@@ -25,7 +25,7 @@ To resolve this issue:
 
 ### Instructor
 
-Ray Villalobos 
+Ray Villalobos ;////////////////////////
                             
 Author, Multimedia Developer
 
